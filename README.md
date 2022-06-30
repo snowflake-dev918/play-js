@@ -1,890 +1,138 @@
-Contribution: 2018-09-04 20:00
-
-Contribution: 2018-09-04 20:01
-
-Contribution: 2018-09-04 20:02
-
-Contribution: 2018-09-04 20:03
-
-Contribution: 2018-09-04 20:04
-
-Contribution: 2018-09-04 20:05
-
-Contribution: 2018-09-04 20:06
-
-Contribution: 2018-09-04 20:07
-
-Contribution: 2018-09-04 20:08
-
-Contribution: 2018-09-04 20:09
-
-Contribution: 2018-09-04 20:10
-
-Contribution: 2018-09-04 20:11
-
-Contribution: 2018-09-04 20:12
-
-Contribution: 2018-09-05 20:00
-
-Contribution: 2018-09-05 20:01
-
-Contribution: 2018-09-05 20:02
-
-Contribution: 2018-09-05 20:03
-
-Contribution: 2018-09-05 20:04
-
-Contribution: 2018-09-05 20:05
-
-Contribution: 2018-09-06 20:00
-
-Contribution: 2018-09-07 20:00
-
-Contribution: 2018-09-07 20:01
-
-Contribution: 2018-09-07 20:02
-
-Contribution: 2018-09-07 20:03
-
-Contribution: 2018-09-07 20:04
-
-Contribution: 2018-09-07 20:05
-
-Contribution: 2018-09-07 20:06
-
-Contribution: 2018-09-07 20:07
-
-Contribution: 2018-09-07 20:08
-
-Contribution: 2018-09-07 20:09
-
-Contribution: 2018-09-07 20:10
-
-Contribution: 2018-09-07 20:11
-
-Contribution: 2018-09-07 20:12
-
-Contribution: 2018-09-07 20:13
-
-Contribution: 2018-09-07 20:14
-
-Contribution: 2018-09-10 20:00
-
-Contribution: 2018-09-10 20:01
-
-Contribution: 2018-09-10 20:02
-
-Contribution: 2018-09-10 20:03
-
-Contribution: 2018-09-10 20:04
-
-Contribution: 2018-09-10 20:05
-
-Contribution: 2018-09-10 20:06
-
-Contribution: 2018-09-10 20:07
-
-Contribution: 2018-09-11 20:00
-
-Contribution: 2018-09-11 20:01
-
-Contribution: 2018-09-11 20:02
-
-Contribution: 2018-09-11 20:03
-
-Contribution: 2018-09-11 20:04
-
-Contribution: 2018-09-11 20:05
-
-Contribution: 2018-09-11 20:06
-
-Contribution: 2018-09-11 20:07
-
-Contribution: 2018-09-11 20:08
-
-Contribution: 2018-09-11 20:09
-
-Contribution: 2018-09-11 20:10
-
-Contribution: 2018-09-11 20:11
-
-Contribution: 2018-09-11 20:12
-
-Contribution: 2018-09-11 20:13
-
-Contribution: 2018-09-11 20:14
-
-Contribution: 2018-09-12 20:00
-
-Contribution: 2018-09-12 20:01
-
-Contribution: 2018-09-12 20:02
-
-Contribution: 2018-09-12 20:03
-
-Contribution: 2018-09-12 20:04
-
-Contribution: 2018-09-12 20:05
-
-Contribution: 2018-09-12 20:06
-
-Contribution: 2018-09-13 20:00
-
-Contribution: 2018-09-13 20:01
-
-Contribution: 2018-09-13 20:02
-
-Contribution: 2018-09-13 20:03
-
-Contribution: 2018-09-13 20:04
-
-Contribution: 2018-09-13 20:05
-
-Contribution: 2018-09-13 20:06
-
-Contribution: 2018-09-13 20:07
-
-Contribution: 2018-09-13 20:08
-
-Contribution: 2018-09-13 20:09
-
-Contribution: 2018-09-13 20:10
-
-Contribution: 2018-09-13 20:11
-
-Contribution: 2018-09-13 20:12
-
-Contribution: 2018-09-13 20:13
-
-Contribution: 2018-09-13 20:14
-
-Contribution: 2018-09-13 20:15
-
-Contribution: 2018-09-13 20:16
-
-Contribution: 2018-09-13 20:17
-
-Contribution: 2018-09-13 20:18
-
-Contribution: 2018-09-13 20:19
-
-Contribution: 2018-09-14 20:00
-
-Contribution: 2018-09-14 20:01
-
-Contribution: 2018-09-14 20:02
-
-Contribution: 2018-09-14 20:03
-
-Contribution: 2018-09-14 20:04
-
-Contribution: 2018-09-14 20:05
-
-Contribution: 2018-09-14 20:06
-
-Contribution: 2018-09-14 20:07
-
-Contribution: 2018-09-14 20:08
-
-Contribution: 2018-09-14 20:09
-
-Contribution: 2018-09-14 20:10
-
-Contribution: 2018-09-14 20:11
-
-Contribution: 2018-09-14 20:12
-
-Contribution: 2018-09-14 20:13
-
-Contribution: 2018-09-14 20:14
-
-Contribution: 2018-09-14 20:15
-
-Contribution: 2018-09-14 20:16
-
-Contribution: 2018-09-14 20:17
-
-Contribution: 2018-09-14 20:18
-
-Contribution: 2018-09-14 20:19
-
-Contribution: 2018-09-17 20:00
-
-Contribution: 2018-09-19 20:00
-
-Contribution: 2018-09-20 20:00
-
-Contribution: 2018-09-20 20:01
-
-Contribution: 2018-09-21 20:00
-
-Contribution: 2018-09-21 20:01
-
-Contribution: 2018-09-21 20:02
-
-Contribution: 2018-09-21 20:03
-
-Contribution: 2018-09-21 20:04
-
-Contribution: 2018-09-21 20:05
-
-Contribution: 2018-09-21 20:06
-
-Contribution: 2018-09-24 20:00
-
-Contribution: 2018-09-24 20:01
-
-Contribution: 2018-09-24 20:02
-
-Contribution: 2018-09-24 20:03
-
-Contribution: 2018-09-24 20:04
-
-Contribution: 2018-09-24 20:05
-
-Contribution: 2018-09-24 20:06
-
-Contribution: 2018-09-24 20:07
-
-Contribution: 2018-09-24 20:08
-
-Contribution: 2018-09-24 20:09
-
-Contribution: 2018-09-24 20:10
-
-Contribution: 2018-09-24 20:11
-
-Contribution: 2018-09-24 20:12
-
-Contribution: 2018-09-24 20:13
-
-Contribution: 2018-09-25 20:00
-
-Contribution: 2018-09-25 20:01
-
-Contribution: 2018-09-25 20:02
-
-Contribution: 2018-09-26 20:00
-
-Contribution: 2018-09-26 20:01
-
-Contribution: 2018-09-26 20:02
-
-Contribution: 2018-09-26 20:03
-
-Contribution: 2018-09-26 20:04
-
-Contribution: 2018-09-26 20:05
-
-Contribution: 2018-09-26 20:06
-
-Contribution: 2018-09-26 20:07
-
-Contribution: 2018-09-26 20:08
-
-Contribution: 2018-09-26 20:09
-
-Contribution: 2018-09-26 20:10
-
-Contribution: 2018-09-26 20:11
-
-Contribution: 2018-09-26 20:12
-
-Contribution: 2018-09-26 20:13
-
-Contribution: 2018-09-26 20:14
-
-Contribution: 2018-09-27 20:00
-
-Contribution: 2018-09-27 20:01
-
-Contribution: 2018-09-27 20:02
-
-Contribution: 2018-09-27 20:03
-
-Contribution: 2018-09-27 20:04
-
-Contribution: 2018-09-27 20:05
-
-Contribution: 2018-09-27 20:06
-
-Contribution: 2018-09-27 20:07
-
-Contribution: 2018-09-27 20:08
-
-Contribution: 2018-09-27 20:09
-
-Contribution: 2018-09-27 20:10
-
-Contribution: 2018-09-27 20:11
-
-Contribution: 2018-09-27 20:12
-
-Contribution: 2018-09-27 20:13
-
-Contribution: 2018-09-27 20:14
-
-Contribution: 2018-09-27 20:15
-
-Contribution: 2018-09-27 20:16
-
-Contribution: 2018-09-27 20:17
-
-Contribution: 2018-10-02 20:00
-
-Contribution: 2018-10-02 20:01
-
-Contribution: 2018-10-02 20:02
-
-Contribution: 2018-10-02 20:03
-
-Contribution: 2018-10-02 20:04
-
-Contribution: 2018-10-02 20:05
-
-Contribution: 2018-10-02 20:06
-
-Contribution: 2018-10-02 20:07
-
-Contribution: 2018-10-02 20:08
-
-Contribution: 2018-10-02 20:09
-
-Contribution: 2018-10-04 20:00
-
-Contribution: 2018-10-04 20:01
-
-Contribution: 2018-10-04 20:02
-
-Contribution: 2018-10-04 20:03
-
-Contribution: 2018-10-04 20:04
-
-Contribution: 2018-10-04 20:05
-
-Contribution: 2018-10-04 20:06
-
-Contribution: 2018-10-04 20:07
-
-Contribution: 2018-10-04 20:08
-
-Contribution: 2018-10-04 20:09
-
-Contribution: 2018-10-04 20:10
-
-Contribution: 2018-10-04 20:11
-
-Contribution: 2018-10-04 20:12
-
-Contribution: 2018-10-04 20:13
-
-Contribution: 2018-10-08 20:00
-
-Contribution: 2018-10-08 20:01
-
-Contribution: 2018-10-08 20:02
-
-Contribution: 2018-10-08 20:03
-
-Contribution: 2018-10-08 20:04
-
-Contribution: 2018-10-08 20:05
-
-Contribution: 2018-10-08 20:06
-
-Contribution: 2018-10-08 20:07
-
-Contribution: 2018-10-08 20:08
-
-Contribution: 2018-10-08 20:09
-
-Contribution: 2018-10-08 20:10
-
-Contribution: 2018-10-08 20:11
-
-Contribution: 2018-10-08 20:12
-
-Contribution: 2018-10-08 20:13
-
-Contribution: 2018-10-08 20:14
-
-Contribution: 2018-10-08 20:15
-
-Contribution: 2018-10-08 20:16
-
-Contribution: 2018-10-08 20:17
-
-Contribution: 2018-10-08 20:18
-
-Contribution: 2018-10-09 20:00
-
-Contribution: 2018-10-10 20:00
-
-Contribution: 2018-10-10 20:01
-
-Contribution: 2018-10-10 20:02
-
-Contribution: 2018-10-10 20:03
-
-Contribution: 2018-10-10 20:04
-
-Contribution: 2018-10-10 20:05
-
-Contribution: 2018-10-10 20:06
-
-Contribution: 2018-10-10 20:07
-
-Contribution: 2018-10-10 20:08
-
-Contribution: 2018-10-10 20:09
-
-Contribution: 2018-10-22 20:00
-
-Contribution: 2018-10-22 20:01
-
-Contribution: 2018-10-22 20:02
-
-Contribution: 2018-10-22 20:03
-
-Contribution: 2018-10-22 20:04
-
-Contribution: 2018-10-22 20:05
-
-Contribution: 2018-10-22 20:06
-
-Contribution: 2018-10-22 20:07
-
-Contribution: 2018-10-22 20:08
-
-Contribution: 2018-10-22 20:09
-
-Contribution: 2018-10-22 20:10
-
-Contribution: 2018-10-22 20:11
-
-Contribution: 2018-10-22 20:12
-
-Contribution: 2018-10-22 20:13
-
-Contribution: 2018-10-22 20:14
-
-Contribution: 2018-10-23 20:00
-
-Contribution: 2018-10-23 20:01
-
-Contribution: 2018-10-23 20:02
-
-Contribution: 2018-10-23 20:03
-
-Contribution: 2018-10-23 20:04
-
-Contribution: 2018-10-23 20:05
-
-Contribution: 2018-10-23 20:06
-
-Contribution: 2018-10-23 20:07
-
-Contribution: 2018-10-23 20:08
-
-Contribution: 2018-10-23 20:09
-
-Contribution: 2018-10-23 20:10
-
-Contribution: 2018-10-23 20:11
-
-Contribution: 2018-10-23 20:12
-
-Contribution: 2018-10-23 20:13
-
-Contribution: 2018-10-23 20:14
-
-Contribution: 2018-10-23 20:15
-
-Contribution: 2018-10-23 20:16
-
-Contribution: 2018-10-23 20:17
-
-Contribution: 2018-10-23 20:18
-
-Contribution: 2018-10-25 20:00
-
-Contribution: 2018-10-25 20:01
-
-Contribution: 2018-10-25 20:02
-
-Contribution: 2018-10-25 20:03
-
-Contribution: 2018-10-25 20:04
-
-Contribution: 2018-10-25 20:05
-
-Contribution: 2018-10-25 20:06
-
-Contribution: 2018-10-25 20:07
-
-Contribution: 2018-10-25 20:08
-
-Contribution: 2018-10-25 20:09
-
-Contribution: 2018-10-25 20:10
-
-Contribution: 2018-10-25 20:11
-
-Contribution: 2018-10-25 20:12
-
-Contribution: 2018-10-25 20:13
-
-Contribution: 2018-10-25 20:14
-
-Contribution: 2018-10-25 20:15
-
-Contribution: 2018-10-25 20:16
-
-Contribution: 2018-10-25 20:17
-
-Contribution: 2018-10-25 20:18
-
-Contribution: 2018-10-25 20:19
-
-Contribution: 2018-10-26 20:00
-
-Contribution: 2018-10-26 20:01
-
-Contribution: 2018-10-26 20:02
-
-Contribution: 2018-10-26 20:03
-
-Contribution: 2018-10-26 20:04
-
-Contribution: 2018-10-26 20:05
-
-Contribution: 2018-10-26 20:06
-
-Contribution: 2018-10-26 20:07
-
-Contribution: 2018-10-26 20:08
-
-Contribution: 2018-10-26 20:09
-
-Contribution: 2018-10-26 20:10
-
-Contribution: 2018-10-26 20:11
-
-Contribution: 2018-10-26 20:12
-
-Contribution: 2018-10-30 20:00
-
-Contribution: 2018-10-30 20:01
-
-Contribution: 2018-10-30 20:02
-
-Contribution: 2018-10-30 20:03
-
-Contribution: 2018-10-30 20:04
-
-Contribution: 2018-10-30 20:05
-
-Contribution: 2018-10-30 20:06
-
-Contribution: 2018-10-31 20:00
-
-Contribution: 2018-10-31 20:01
-
-Contribution: 2018-10-31 20:02
-
-Contribution: 2018-11-02 20:00
-
-Contribution: 2018-11-02 20:01
-
-Contribution: 2018-11-02 20:02
-
-Contribution: 2018-11-02 20:03
-
-Contribution: 2018-11-02 20:04
-
-Contribution: 2018-11-02 20:05
-
-Contribution: 2018-11-02 20:06
-
-Contribution: 2018-11-02 20:07
-
-Contribution: 2018-11-02 20:08
-
-Contribution: 2018-11-02 20:09
-
-Contribution: 2018-11-02 20:10
-
-Contribution: 2018-11-02 20:11
-
-Contribution: 2018-11-02 20:12
-
-Contribution: 2018-11-02 20:13
-
-Contribution: 2018-11-02 20:14
-
-Contribution: 2018-11-02 20:15
-
-Contribution: 2018-11-02 20:16
-
-Contribution: 2018-11-02 20:17
-
-Contribution: 2018-11-02 20:18
-
-Contribution: 2018-11-05 20:00
-
-Contribution: 2018-11-05 20:01
-
-Contribution: 2018-11-05 20:02
-
-Contribution: 2018-11-05 20:03
-
-Contribution: 2018-11-05 20:04
-
-Contribution: 2018-11-05 20:05
-
-Contribution: 2018-11-05 20:06
-
-Contribution: 2018-11-05 20:07
-
-Contribution: 2018-11-05 20:08
-
-Contribution: 2018-11-05 20:09
-
-Contribution: 2018-11-06 20:00
-
-Contribution: 2018-11-06 20:01
-
-Contribution: 2018-11-06 20:02
-
-Contribution: 2018-11-06 20:03
-
-Contribution: 2018-11-06 20:04
-
-Contribution: 2018-11-06 20:05
-
-Contribution: 2018-11-06 20:06
-
-Contribution: 2018-11-06 20:07
-
-Contribution: 2018-11-06 20:08
-
-Contribution: 2018-11-06 20:09
-
-Contribution: 2018-11-06 20:10
-
-Contribution: 2018-11-07 20:00
-
-Contribution: 2018-11-07 20:01
-
-Contribution: 2018-11-07 20:02
-
-Contribution: 2018-11-07 20:03
-
-Contribution: 2018-11-08 20:00
-
-Contribution: 2018-11-08 20:01
-
-Contribution: 2018-11-08 20:02
-
-Contribution: 2018-11-08 20:03
-
-Contribution: 2018-11-08 20:04
-
-Contribution: 2018-11-08 20:05
-
-Contribution: 2018-11-08 20:06
-
-Contribution: 2018-11-08 20:07
-
-Contribution: 2018-11-08 20:08
-
-Contribution: 2018-11-12 20:00
-
-Contribution: 2018-11-12 20:01
-
-Contribution: 2018-11-12 20:02
-
-Contribution: 2018-11-12 20:03
-
-Contribution: 2018-11-12 20:04
-
-Contribution: 2018-11-12 20:05
-
-Contribution: 2018-11-12 20:06
-
-Contribution: 2018-11-12 20:07
-
-Contribution: 2018-11-12 20:08
-
-Contribution: 2018-11-12 20:09
-
-Contribution: 2018-11-12 20:10
-
-Contribution: 2018-11-12 20:11
-
-Contribution: 2018-11-12 20:12
-
-Contribution: 2018-11-12 20:13
-
-Contribution: 2018-11-12 20:14
-
-Contribution: 2018-11-12 20:15
-
-Contribution: 2018-11-13 20:00
-
-Contribution: 2018-11-13 20:01
-
-Contribution: 2018-11-13 20:02
-
-Contribution: 2018-11-13 20:03
-
-Contribution: 2018-11-13 20:04
-
-Contribution: 2018-11-13 20:05
-
-Contribution: 2018-11-13 20:06
-
-Contribution: 2018-11-13 20:07
-
-Contribution: 2018-11-13 20:08
-
-Contribution: 2018-11-13 20:09
-
-Contribution: 2018-11-13 20:10
-
-Contribution: 2018-11-14 20:00
-
-Contribution: 2018-11-14 20:01
-
-Contribution: 2018-11-14 20:02
-
-Contribution: 2018-11-14 20:03
-
-Contribution: 2018-11-14 20:04
-
-Contribution: 2018-11-14 20:05
-
-Contribution: 2018-11-14 20:06
-
-Contribution: 2018-11-14 20:07
-
-Contribution: 2018-11-14 20:08
-
-Contribution: 2018-11-14 20:09
-
-Contribution: 2018-11-14 20:10
-
-Contribution: 2018-11-14 20:11
-
-Contribution: 2018-11-14 20:12
-
-Contribution: 2018-11-14 20:13
-
-Contribution: 2018-11-14 20:14
-
-Contribution: 2018-11-14 20:15
-
-Contribution: 2018-11-14 20:16
-
-Contribution: 2018-11-14 20:17
-
-Contribution: 2018-11-23 20:00
-
-Contribution: 2018-11-23 20:01
-
-Contribution: 2018-11-23 20:02
-
-Contribution: 2018-11-23 20:03
-
-Contribution: 2018-11-23 20:04
-
-Contribution: 2018-11-23 20:05
-
-Contribution: 2018-11-23 20:06
-
-Contribution: 2018-11-23 20:07
-
-Contribution: 2018-11-23 20:08
-
-Contribution: 2018-11-23 20:09
-
-Contribution: 2018-11-23 20:10
-
-Contribution: 2018-11-23 20:11
-
-Contribution: 2018-11-23 20:12
-
-Contribution: 2018-11-23 20:13
-
-Contribution: 2018-11-23 20:14
-
-Contribution: 2018-11-23 20:15
-
-Contribution: 2018-11-23 20:16
-
-Contribution: 2018-11-23 20:17
-
-Contribution: 2018-11-23 20:18
-
-Contribution: 2018-11-26 20:00
-
-Contribution: 2018-11-26 20:01
-
-Contribution: 2018-11-26 20:02
-
-Contribution: 2018-11-26 20:03
-
-Contribution: 2018-11-28 20:00
-
-Contribution: 2018-11-28 20:01
-
-Contribution: 2018-11-28 20:02
-
-Contribution: 2018-11-28 20:03
-
-Contribution: 2018-11-28 20:04
-
-Contribution: 2018-11-28 20:05
-
-Contribution: 2018-11-28 20:06
-
-Contribution: 2018-11-28 20:07
-
-Contribution: 2018-11-28 20:08
-
-Contribution: 2018-11-29 20:00
-
-Contribution: 2018-11-29 20:01
-
-Contribution: 2018-11-29 20:02
-
-Contribution: 2018-11-29 20:03
-
-Contribution: 2018-11-29 20:04
-
-Contribution: 2018-11-29 20:05
-
-Contribution: 2018-11-29 20:06
-
-Contribution: 2018-11-29 20:07
-
-Contribution: 2018-11-29 20:08
-
-Contribution: 2018-11-29 20:09
-
-Contribution: 2018-11-29 20:10
-
-Contribution: 2018-11-29 20:11
-
-Contribution: 2018-11-29 20:12
-
-Contribution: 2018-11-29 20:13
-
-Contribution: 2018-11-29 20:14
-
-Contribution: 2018-11-29 20:15
-
-Contribution: 2018-11-29 20:16
-
-Contribution: 2018-11-29 20:17
-
+# playwright-test [![NPM Version](https://img.shields.io/npm/v/playwright-test.svg)](https://www.npmjs.com/package/playwright-test) [![NPM Downloads](https://img.shields.io/npm/dt/playwright-test.svg)](https://www.npmjs.com/package/playwright-test) [![NPM License](https://img.shields.io/npm/l/playwright-test.svg)](https://www.npmjs.com/package/playwright-test) ![tests](https://github.com/hugomrdias/playwright-test/workflows/tests/badge.svg)
+
+> Run mocha, zora, uvu, tape and benchmark.js scripts inside real browsers with `playwright`.
+
+## Install
+
+```shell
+$ npm install playwright-test
+```
+
+## Usage
+
+```shell
+$ playwright-test [files] [options]
+# or
+$ pw-test [files] [options]
+
+```
+
+## Options
+
+```shell
+Description
+    Run mocha, zora, uvu, tape and benchmark.js scripts inside real browsers with `playwright`.
+
+  Usage
+    $ playwright-test [files] [options]
+
+  Options
+    -r, --runner       Test runner. Options: mocha, tape, zora, uvu and benchmark.  (default mocha)
+    -b, --browser      Browser to run tests. Options: chromium, firefox, webkit.  (default chromium)
+    -m, --mode         Run mode. Options: main, worker.  (default main)
+    -d, --debug        Debug mode, keeps browser window open.
+    -w, --watch        Watch files for changes and re-run tests.
+    -i, --incognito    Use incognito window to run tests.
+    -e, --extension    Use extension background_page to run tests.
+    --cov              Enable code coverage in istanbul format. Outputs '.nyc_output/coverage-pw.json'.
+    --before           Path to a script to be loaded on a separate tab before the main script.
+    --sw               Path to a script to be loaded in a service worker.
+    --assets           Assets to be served by the http server.  (default process.cwd())
+    --cwd              Current directory.  (default process.cwd())
+    --extensions       File extensions allowed in the bundle.  (default js,cjs,mjs,ts,tsx)
+    --config           Path to the config file
+    -v, --version      Displays current version
+    -h, --help         Displays this message
+
+
+  Examples
+    $ playwright-test test.js --runner tape
+    $ playwright-test test --debug
+    $ playwright-test "test/**/*.spec.js" --browser webkit --mode worker --incognito --debug
+
+    $ playwright-test bench.js --runner benchmark
+    # Uses benchmark.js to run your benchmark see playwright-test/mocks/benchmark.js for an example.
+
+    $ playwright-test test --cov && npx nyc report --reporter=html
+    # Enable code coverage in istanbul format which can be used by nyc.
+
+    $ playwright-test "test/**/*.spec.js" --debug --before ./mocks/before.js
+    # Run a script in a separate tab check ./mocks/before.js for an example.
+    # Important: You need to call `self.PW_TEST.beforeEnd()` to start the main script.
+
+  Runner Options
+    All arguments passed to the cli not listed above will be fowarded to the runner.
+    $ playwright-test test.js --runner mocha --bail --grep 'should fail'
+
+    To send a `false` flag use --no-bail.
+    Check https://mochajs.org/api/mocha for `mocha` options or `npx mocha --help`.
+
+  Notes
+    DEBUG env var filtering for 'debug' package logging will work as expected.
+    $ DEBUG:app playwright-test test.js
+
+    Do not let your shell expand globs, always wrap them.
+    $ playwright-test "test/**" GOOD
+    $ playwright-test test/** BAD
+```
+
+## Config
+
+> The config file needs to be commonjs for now, so if your package is pure ESM you need to use `.cjs` extension.
+
+Configuration can be done with cli flags or config files.
+
+```js
+'package.json', // using property `pw-test` or `playwright-test`
+`.playwright-testrc.json`,
+`.playwright-testrc.js`,
+`playwright-test.config.js`,
+`.playwright-testrc.cjs`,
+`playwright-test.config.cjs`,
+`.pw-testrc.json`,
+`.pw-testrc.js`,
+`pw-test.config.js`,
+`.pw-testrc.cjs`,
+`pw-test.config.cjs`,
+```
+
+The config type can be imported from the entrypoint.
+
+```ts
+import type { RunnerOptions } from 'playwright-test'
+```
+
+### Interface
+
+```ts
+export interface RunnerOptions {
+  cwd: string
+  assets: string
+  browser: 'chromium' | 'firefox' | 'webkit'
+  debug: boolean
+  mode: 'main' | 'worker'
+  incognito: boolean
+  input?: string[]
+  extension: boolean
+  runnerOptions: any
+  before?: string
+  sw?: string
+  cov: false
+  extensions: string
+  buildConfig: BuildOptions
+  buildSWConfig: BuildOptions
+  beforeTests: (opts: RunnerOptions) => Promise<unknown>
+  afterTests: (
+    opts: RunnerOptions,
+    beforeTestsOutput: unknown
+  ) => Promise<unknown>
+}
+```
+
+## Run in CI
+
+Check our CI config `.github/workflows/main.yml` and the playwright [Github Action](https://playwright.dev/docs/ci/#github-actions)
+
+## License
+
+MIT © [Hugo Dias](http://hugodias.me)

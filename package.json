@@ -1,0 +1,124 @@
+{
+  "name": "playwright-test",
+  "version": "8.1.0",
+  "description": "Run mocha, zora, uvu, tape and benchmark.js scripts inside real browsers with playwright.",
+  "repository": "hugomrdias/playwright-test",
+  "author": "Hugo Dias <hugomrdias@gmail.com> (hugodias.me)",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/runner.js",
+  "types": "dist/src/runner.d.ts",
+  "exports": {
+    ".": "./src/runner.js",
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "playwright-test": "cli.js",
+    "pw-test": "cli.js"
+  },
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "prepare": "tsc && copyfiles 'src/**/*.d.ts' dist",
+    "test": "mocha test.js --bail --timeout 50000",
+    "lint": "eslint '**/*.js' && prettier --check '*.{js,json}' --ignore-path .gitignore && tsc"
+  },
+  "files": [
+    "dist/src/runner.d.ts",
+    "dist/src/runner.d.ts.map",
+    "dist/src/types.d.ts",
+    "static",
+    "src",
+    "cli.js"
+  ],
+  "keywords": [
+    "playwright",
+    "test",
+    "tests",
+    "test-runner",
+    "mocha",
+    "tape",
+    "benchmark",
+    "benchmark.js",
+    "zora",
+    "coverage",
+    "istanbul",
+    "nyc",
+    "code coverage",
+    "uvu"
+  ],
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "camelcase": "^6.3.0",
+    "chokidar": "^3.5.3",
+    "cpy": "^9.0.1",
+    "esbuild": "0.14.39",
+    "events": "^3.3.0",
+    "globby": "^13.1.1",
+    "kleur": "^4.1.4",
+    "lilconfig": "^2.0.5",
+    "lodash": "^4.17.21",
+    "merge-options": "^3.0.4",
+    "nanoid": "^3.3.4",
+    "ora": "^6.1.0",
+    "p-wait-for": "4.1.0",
+    "path-browserify": "^1.0.1",
+    "playwright-core": "1.22.1",
+    "polka": "^0.5.2",
+    "premove": "^4.0.0",
+    "process": "^0.11.10",
+    "sade": "^1.8.1",
+    "sirv": "^2.0.2",
+    "source-map": "0.6.1",
+    "stream-browserify": "^3.0.0",
+    "strip-ansi": "^7.0.0",
+    "tape": "^5.5.3",
+    "tempy": "^3.0.0",
+    "test-exclude": "^6.0.0",
+    "v8-to-istanbul": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/mocha": "^9.1.1",
+    "@types/polka": "^0.5.4",
+    "benchmark": "^2.1.4",
+    "copyfiles": "^2.4.1",
+    "debug": "^4.3.4",
+    "delay": "^5.0.0",
+    "execa": "^6.1.0",
+    "hd-scripts": "^1.1.2",
+    "mocha": "^10.0.0",
+    "simple-git-hooks": "^2.6.1",
+    "typescript": "^4.6.4",
+    "uvu": "^0.5.3",
+    "zora": "^5.0.3"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,ts,md,yml,json}": "prettier --write",
+    "*.js": "eslint --fix"
+  },
+  "eslintConfig": {
+    "env": {
+      "mocha": true
+    },
+    "extends": [
+      "./node_modules/hd-scripts/eslint/index.js"
+    ],
+    "parserOptions": {
+      "sourceType": "module"
+    }
+  },
+  "eslintIgnore": [
+    "node_modules",
+    "coverage",
+    "dist",
+    "src/vendor/benchmark.js",
+    "src/setup-bench.js",
+    "src/vendor/source-map-support.js",
+    "mocks"
+  ],
+  "prettier": "hd-scripts/prettier.config.js"
+}
